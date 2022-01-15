@@ -18,7 +18,7 @@ const Container = styled.div`
     width : 40%;
     margin-left : 5%;
     height : 30vh;
-    margin-top : 5%;
+    margin-top : 3%;
     
 `
 
