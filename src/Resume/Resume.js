@@ -50,11 +50,11 @@ const Resume = () => {
             <Container>
                 <Link href = "https://drive.google.com/file/d/13iSY4esRjyxRyi_ouT-4Pk9xnYosUUg0/view?usp=sharing" target = "_blank">
                     <Thumbnail src = {pdf} />
-                    <Text>Read It here</Text>
+                    <Text>Read It Here</Text>
                 </Link>
                 <Link href = "https://drive.google.com/file/d/13iSY4esRjyxRyi_ouT-4Pk9xnYosUUg0/view?usp=sharing" target = "_blank">
                     <Thumbnail src = {Video} />
-                    <Text>Watch It here</Text>
+                    <Text>Watch It Here</Text>
                 </Link>
             </Container>
         </div>

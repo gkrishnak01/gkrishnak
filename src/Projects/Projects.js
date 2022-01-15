@@ -30,7 +30,6 @@ const Projects = () => {
         <div>
             <Title>Projects</Title>
             <Container>
-                {console.log(projects)}
                 {projects ? projects : null}
             </Container>
         </div>

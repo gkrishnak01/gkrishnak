@@ -1,6 +1,5 @@
 import React from 'react'
 import styled from 'styled-components'
-import background from "../Media/12918.jpg"
 
 const Card = styled.div`
     height : 40vh;

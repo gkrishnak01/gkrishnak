@@ -36,7 +36,6 @@ Abstract.defaultProps = {
 const Project = (props) => {
     return (
         <Card>
-            {console.log(props)}
             <Cover src = {props.each.image} />
             <Abstract weight = {600}>{props.each.title}</Abstract>
             <Abstract>{props.each.desc}</Abstract>
